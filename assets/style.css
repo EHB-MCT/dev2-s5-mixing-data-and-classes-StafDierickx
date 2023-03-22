@@ -26,8 +26,10 @@ h1, #searchForm {
   float: left;
   padding: 24px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-between;
+
+  text-align: left;
 }
 
 img { 
